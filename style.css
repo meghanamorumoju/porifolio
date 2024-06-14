@@ -1,0 +1,72 @@
+.col-md-4 {
+    text-align: end;
+    font-size: 33px;
+}
+.row{
+    margin-top:170px;
+}
+.row #text h1,h3{
+    font-size: 40px;
+}
+#pic{
+    color: aliceblue;
+    background-image: url("https://toppng.com/uploads/preview/flowers-leaves-plant-dark-green-11570463406bsyww89tpr.jpg");
+}
+#para{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 33px;
+}
+.s-services {
+    background-image: url("https://toppng.com/uploads/preview/flowers-leaves-plant-dark-green-11570463406bsyww89tpr.jpg");
+    padding-top: 16.2rem;
+    padding-bottom: 13.2rem;
+    background-color: #FFFFFF;
+    color: #757575;
+    position: relative;
+}
+
+.s-contact {
+    background-color: #151515;
+    background-image: url("https://toppng.com/uploads/preview/flowers-leaves-plant-dark-green-11570463406bsyww89tpr.jpg");
+    
+}
+.subhead + .display-2 {
+    margin-top: .6rem;
+    text-align: center;
+}
+.subhead {
+    font-family: "montserrat-bold", sans-serif;
+    font-size: 1.7rem;
+    line-height: 1.333;
+    text-transform: uppercase;
+    letter-spacing: .25rem;
+    color: #39b54a;
+    margin-top: 0;
+    margin-bottom: 83px;
+    text-align: center;
+
+}
+.contact-primary {
+    text-align: center;
+}
+#foot {
+    text-align: center;
+    padding-left: 20px;
+}
+#foot {
+    text-align: center;
+    padding-left: 70px;
+}
+#contactName {
+    background-color: #151515;
+}
+#contactEmail {
+    background-color: #151515;
+}
+#contactSubject {
+    background-color: #151515;
+}
+#contactMessage{
+    background-color: #151515;
+}
